@@ -116,15 +116,12 @@ This app would not exist without the following incredible open-source projects a
 
 This entire project — every line of code, every style decision, every icon, the build
 pipeline, and even this README — was created with the help of
-**[Claude](https://claude.ai)** by Anthropic, an AI assistant.
+**[Claude](https://claude.ai)**
 
 I had the idea, described what I wanted, and Claude wrote it.
 I am deeply sorry for my own incompetence and for not knowing how to do any of this myself.
 Shout out to Claude for having the patience of a saint while I asked the same question
 four different ways.
-
-If this app is useful to you, the real heroes are **glomatico** for gamdl and
-**Anthropic** for Claude. I just asked nicely.
 
 ---
 
@@ -133,7 +130,7 @@ If this app is useful to you, the real heroes are **glomatico** for gamdl and
 This tool requires an active Apple Music subscription to function.
 Downloading music is intended for **personal archival use only**.
 Using this tool to remove DRM protection from Apple Music content may violate
-Apple's Terms of Service. The authors take no responsibility for how you use this software.
+Apple's Terms of Service. The author takeS no responsibility for how you use this software.
 
 ---
 
