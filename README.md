@@ -17,7 +17,7 @@ have to touch the command line.
 - **Auto-deletes lyrics (.lrc) files** after every download
 - Saves your cookies path and output folder between sessions
 - Live log output so you can watch the download as it happens
-- Works on **Windows, Linux, and macOS**
+- Works on **Windows** (LINUX AND MACOS COMING SOME DAY IDK DO IT YOURSELF IM LAZY)
 
 ---
 
